@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1723957436 source:c:\users\juani\onedrive\documentos\archivos utn\materias\probabilidad y estadística\calculadoraestadistica\calculadoraestadistica.cpp
+	<iostream>
+	<math.h>
+	<iomanip>
+	"Funciones.h"
+
+1723956615 source:c:\users\juani\onedrive\documentos\archivos utn\materias\probabilidad y estadística\calculadoraestadistica\main.cpp
+	<iostream>
+	"Funciones.h"
+
+1723956491 c:\users\juani\onedrive\documentos\archivos utn\materias\probabilidad y estadística\calculadoraestadistica\funciones.h
+
+1723956491 source:c:\users\juani\onedrive\documentos\archivos utn\materias\probabilidad y estadística\calculadoraestadistica\diagramacircular.cpp
+	<iostream>
+	<cmath>
+	<vector>
+	<string>
+	"Funciones.h"
+
